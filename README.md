@@ -14,7 +14,7 @@ Ce projet implémente un système de surveillance de température CPU sur Raspbe
 1. [Installation de l'image Yocto](#💾-1-installation-de-limage-yocto-sur-la-carte-sd)
 2. [Configuration du réseau Wi-Fi](#📡-2-configuration-du-réseau-wi-fi)
 3. [Script de surveillance de la température](#📊-3-script-de-surveillance-de-la-température)
-4. [Création du service SysVInit](#4-création-du-service-sysvinit )
+4. [Création du service SysVInit](#⚙️-4-création-du-service-sysvinit )
 5. [Test du système](#🧪-5-test-du-système)
 6. [Recette Yocto (optionnel)](#🧩-6-recette-yocto-optionnel)
 7. [Environnement de développement](#💻-7-environnement-de-développement)
