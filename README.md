@@ -341,7 +341,7 @@ Connectez l'adaptateur série à la Raspberry Pi comme suit:
 - Ne pas connecter le fil rouge (5V)
 - Alimentation via le micro USB de la Raspberry Pi (5V)
 
-![Schéma de branchement Raspberry Pi 4](pictures/Raspberry_pi_4.png)
+![Schéma de branchement Raspberry Pi 4](pictures/Raspberry_Pi_4.png)
 <!-- <img src="pictures/raspberry_pi_4.png" alt="Graphique de température" width="500"/> -->
 
 ## 📱 9. Visualisation des données
