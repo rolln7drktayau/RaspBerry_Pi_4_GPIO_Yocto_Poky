@@ -2,7 +2,7 @@
 
 <div align="center" style="bold; font-size: 24px; margin-bottom: 20px;">
 <!-- <img src="assets/adare-logo-refined.svg" width="300px"> -->
-Roland Cédric TAYO
+Roland Cédric TAYO - INEM
 </div>
 
 </br>
