@@ -404,4 +404,4 @@ Le widget a été configuré pour envoyer des notifications selon certains seuil
 
 ---
 
-*Ce projet a été développé dans le cadre d'un TP à rendre pour le cadre de l'UE "Architecture des systèmes embarqués" de CY Tech S/C CY Paris Université.*
+*Ce projet a été développé dans le cadre d'un TP à rendre pour l'UE "Architecture des systèmes embarqués" de CY Tech S/C CY Paris Université.*
